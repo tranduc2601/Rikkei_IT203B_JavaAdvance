@@ -23,6 +23,15 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="MySQL Connector/J">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="JUnit5">
         <CLASSES>
           <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter/5.14.0/junit-jupiter-5.14.0.jar!/" />
